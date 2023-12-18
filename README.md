@@ -1,4 +1,6 @@
-# openvpn-install
+# Open VPN Install
+
+## Original Creator: https://github.com/angristan/openvpn-install
 
 ![Test](https://github.com/angristan/openvpn-install/workflows/Test/badge.svg)
 ![Lint](https://github.com/angristan/openvpn-install/workflows/Lint/badge.svg)
